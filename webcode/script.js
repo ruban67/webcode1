@@ -1,12 +1,4 @@
-// var div=document.createElement('heading') ;
-// div.innerHTML=`  <div class ="container">
-// <nav class="navbar navbar-light bg-dark">
-// <div class = "container-fluid">          
-// <a class="navbar-brand text-bg-warning p-1" href="#">makeup products</a>
-// </div>  
-// </nav>`;
-// div.style.textAlign="center";
-// document.body.append(div);
+
 let container=document.createElement("div");
 container.setAttribute("class","container");
 let row=document.createElement("div");
